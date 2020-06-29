@@ -99,7 +99,7 @@
     }
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/sagarach65"
   },
   "lint-staged": {
     "*.{tsx,ts}": [
