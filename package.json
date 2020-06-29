@@ -77,8 +77,6 @@
     "lint-staged": "^10.2.9",
     "mutationobserver-shim": "^0.3.5",
     "prettier": "^2.0.5",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
     "react-test-renderer": "^16.13.1",
     "rollup": "^2.13.1",
     "rollup-plugin-terser": "^6.1.0",
